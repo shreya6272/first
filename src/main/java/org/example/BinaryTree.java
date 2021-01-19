@@ -102,6 +102,7 @@ public class BinaryTree {
         bt.inorderTraversal(bt.root);
         System.out.println("\nDepth of 10 is: "+bt.depth(bt.root, 10));
         System.out.println("\nDepth of Binary Search Tree is: "+bt.treeDepth(bt.root));
+        System.out.println("");
 
     }
 }
